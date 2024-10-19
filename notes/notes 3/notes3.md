@@ -1,7 +1,7 @@
 # notes 3
 
 ## Echo
-**Definition**:
+**Definition:
 Used for displaying text on the screen.
 **Usage**:
   * `echo` + `option` + `string to print`

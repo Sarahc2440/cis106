@@ -1,4 +1,3 @@
-# Lab 3 submission
 ---
 Student: Sarah Calvo
 semester: Fall 24
