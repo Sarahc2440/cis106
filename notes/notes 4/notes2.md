@@ -18,13 +18,13 @@ The location of a file starting from a child directory of the current working di
 * Ex:`cd ../documents`
 
 **The difference between your home directory and the home directory**
-Your Home Dirctory :is your user’s personal directory where all your files are located.
+Your Home Directory:is your user’s personal directory where all your files are located
 * Ex:`cd ~`
 The Home directory: is the parent directory of all the home directories.
 * Ex:`ls /home`
 
 **Parent directory**
-a dirtectory containing one or more directories and files
+a directory containing one or more directories and files
 * Ex:`cd ..`
 
 **Child directory or subdirectory**
@@ -46,5 +46,5 @@ These are variables you create in a Bash shell script or command line
 
 **Why do we need use $ with variables in bash shell scripting?**
 
-We need it because the symbol $ tells the shell you want to store the value  stored in the varriable its like a short cut 
+We need it because the symbol $ tells the shell you want to store the value  stored in the variable its like a short cut 
 * Ex:`#!/bin/bash`+`NAME="John"`+`echo "Hello, $NAME!"`
